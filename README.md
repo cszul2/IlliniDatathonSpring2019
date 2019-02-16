@@ -15,3 +15,6 @@ Idris Kuti
 TBD
 
 ## Code Descriptions
+
+## Resources
+How to set up good Data Visualizing: https://venngage.com/blog/chart-design/
