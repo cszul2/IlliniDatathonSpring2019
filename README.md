@@ -1,6 +1,6 @@
 # Illini Datathon - Spring 2019
 
-This is the source code that was used by Team 20 during the Illini Datathon in Spring 2019. The purpose of this code in this reposistory was to... TBD
+This is the source code that was used by Team 20 during the Illini Datathon in Spring 2019. The purpose of this code in this reposistory was to find which of four companies (3M, Synchrony, Bayer, and Honeywell) should be invested into. Various data sources were used for this prediction. See Data Metadata for more information. 
 
 ## Authors
 Chris Szul
@@ -12,18 +12,18 @@ Tejo Nutalapati
 Idris Kuti
 
 ## Data Metadata
-TBD
+- Stock Closings between 2008-2019
 
 ## Deliverables
 Presentation: 
 
-1
+Model:
 
-2
+Business Thesis:
 
-3
+Data Visualization:
 
-4
+Predicted Values:
 
 ## Code Descriptions
 
