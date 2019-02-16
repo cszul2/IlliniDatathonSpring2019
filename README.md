@@ -17,13 +17,13 @@ TBD
 ## Deliverables
 Presentation: 
 
-1
+Model:
 
-2
+Business Thesis:
 
-3
+Data Visualization:
 
-4
+Predicted Values:
 
 ## Code Descriptions
 
