@@ -1,0 +1,30 @@
+2/15********************
+Primary Companies:
+- 3M: Chemicals, Adhesives, Bulletproof Glass
+- Bayer: Medicine
+- Synchrony: Financing and Lending
+- Honeywell: Aerospace Defense, Chemicals, Housing, Everything
+
+Competative Companies:
+- 3M::Honeywell, PPG
+- Bayer::Pfizer, GlaxoSmithKline
+- Synchrony::Captial One, Discover
+- HoneyWell::Boeing, United Technologies
+
+Brainstorming:
+- News Data
+- Focus Group Data
+- Advertising Expenses
+- CEO Changes
+- Negative/Positive Wording on Twitter
+- Looking at common trends between Competative Companies
+
+Objectives:
+- Tejo: Create Model
+- Chris: Collect 2019 Stock Price Data, send information
+- Idris: Twitter API and Financial Data
+- Vishal: Learn Data visualization 
+
+Twitter API:
+- Gather posts with company hastags
+    - Avoid any texts from companies
