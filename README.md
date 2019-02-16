@@ -13,3 +13,19 @@ Idris Kuti
 
 ## Data Metadata
 TBD
+
+## Deliverables
+Presentation: 
+
+1
+
+2
+
+3
+
+4
+
+## Code Descriptions
+
+## Resources
+How to set up good Data Visualizing: https://venngage.com/blog/chart-design/
